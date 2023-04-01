@@ -23,3 +23,7 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+
+## Reference blog
+https://blogs.sap.com/2020/12/15/deploying-a-cap-based-fiori-app-to-a-central-launchpad/comment-page-1/#comment-546604
